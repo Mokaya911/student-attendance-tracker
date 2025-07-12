@@ -9,5 +9,20 @@ This project tracks student attendance using data analysis.
 ## How to Run
 - Open the Jupyter Notebook and follow the steps inside.
 
-## What It Does
-- [Explain what you found or built, like a chart showing attendance trends]
+## Features
+- Mark students present/absent
+- View attendance reports
+- Export to CSV
+
+
+## Setup
+1. biometric data
+2. python script
+3. output csv file
+
+## Usage
+- Log in as student
+- Select class and mark attendance
+- download biometric data
+- Download reports
+
